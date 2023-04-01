@@ -1,4 +1,4 @@
-# Errors as a Defining Feature of Intelligence
+## Errors as a Defining Feature of Intelligence
 
 **There's nothing intelligent about being right all the time.**
 
