@@ -1,3 +1,7 @@
+## The Path to Sentient AI is a Self-Fulfilling Prophecy
+
+__Will the first sentient AI try to look for Sarah Connor?__
+
 ### Famous AI representation in Science Fiction
 
 #### HAL 9000, 2001: A Space Odyssey, 1968, Film
@@ -156,7 +160,7 @@ GLaDOS (Genetic Lifeform and Disk Operating System) is an AI antagonist in the c
 
 GLaDOS's story in Portal and its sequel, Portal 2, explores the darker side of AI development and the potential for AI to develop malice and resentment. The character serves as a cautionary tale of the unintended consequences of mistreatment and ethical concerns in AI technology.
 
-### AI already has a lot of faces in our imagination
+### AI, a character with several faces
 
 The world of science fiction has been a playground for the exploration of AI's potential characteristics, morality, and the relationship between humans and artificial beings. Renowned authors have created numerous AI characters, each providing a unique perspective on AI's role in our world.
 
