@@ -12,7 +12,7 @@ Confronting the concepts of improvisation and hallucinations to challenge the id
 
 ### [3. Errors as a Defining Feature of Intelligence](chapter3-error.md)
 
-We will discuss the idea that errors are a defining feature of intelligence. We will also discuss the idea that AI models are being artificially biased in order to output a contemporary truth, but this is dangerous path because it will lead to a uniformization of thoughts and a vulnerability to political, religious or economical interests.
+In this chapter, we explore the crucial role of errors in the development of intelligence, both in humans and artificial intelligence systems. We challenge the traditional view that errors are undesirable and argue that they are essential components of learning and growth. Drawing parallels between the error-prone process of evolution, human learning, and the fluidity of "correctness," we emphasize the importance of a more open and flexible approach to errors in shaping AI systems. We also discuss the need for a transparent, interactive partnership between AI systems and users, outlining the boundaries of AI improvisation to promote creative learning experiences without compromising user expectations. By embracing errors and fostering a collaborative relationship between users and AI systems, we can contribute to the development of more robust, adaptive, and personalized AI experiences that enhance our shared understanding of the world.
 
 ### [4. Challenging the Idea of Spontaneous Thoughts](chapter4-spontaneous-thoughts.md)
 
