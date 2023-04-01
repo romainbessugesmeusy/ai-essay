@@ -1,4 +1,4 @@
-##Challenging the Idea of Spontaneous Thoughts
+## Challenging the Idea of Spontaneous Thoughts
 
 `while(alive) { prompt = think(prompt) }`
 
