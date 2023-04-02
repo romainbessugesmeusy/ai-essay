@@ -1,5 +1,11 @@
 # A different take on AI
 
+## Abstract
+
+This essay challenges prevailing opinions on the limitations of generative AI models, such as large language models (LLMs), by drawing parallels between human cognition and AI systems. It delves into various aspects of learning, including imitation, improvisation, spontaneous thoughts, error-prone processes, and the impact of epigenetics. By examining similarities between the two forms of intelligence, we highlight the potential of AI models and explore the path towards sentient AI. The essay also addresses the influence of science fiction and popular narratives on AI development, questioning the self-fulfilling prophecy of sentient AI creation. By reevaluating and broadening our perspectives on AI capabilities, we aim to encourage a more open, unbiased, and innovative approach to AI research and development, ultimately unlocking new possibilities for AI-driven growth and creativity.
+
+[**Start Reading**](chapter1-imitation.md)
+
 ## Writing Methodology
 
 This essay is a product of collaboration between a human author and the GPT-4 AI model, acting as a writing assistant. The process encompassed several intellectual and linguistic exchanges, aiming to create a more captivating and well-reasoned final piece. Over three weeks, the author refined the writing process, tackling the essay section by section.
@@ -49,3 +55,11 @@ The concept of epigenetics and the inheritance of experiences in living organism
 ### [6. The Path to Sentient AI is a Self-Fulfilling Prophecy](chapter6-sentience.md)
 
 This chapter delves into the intricate relationship between science fiction and AI development, exploring the ways in which popular narratives have influenced our perception and expectations of AI. By examining various AI characters in science fiction, we observe a myriad of personalities, motivations, and abilities that AI can possess, ranging from benevolent to malevolent beings. This exploration provides valuable insights into the complexities and uncertainties surrounding the ethical and philosophical implications of AI creation. The influence of science fiction on AI self-representation is further illustrated in image generators and LLMs, highlighting the significant impact of pop culture on AI emergence. As we question whether the development of sentient AI is a self-fulfilling prophecy, the chapter underscores the importance of reevaluating the content used for AI training and fostering unbiased AI models. Recognizing and addressing the connection between AI development and our own collective imagination is vital for the ethical and innovative advancement of AI systems in our society.
+
+## To-do
+
+- [x] Share the methodology
+- [ ] Review citations and references
+- [ ] Write a conclusion
+- [ ] Write an introduction
+- [ ] Export to PDF
