@@ -50,3 +50,7 @@ References
 - Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533-536.
 - Tomasello, M. (2003). Constructing a language: A usage-based theory of language acquisition. Harvard University Press.
 - Kuhl, P. K. (2004). Early language acquisition: Cracking the speech code. Nature Reviews Neuroscience, 5(11), 831-843.
+
+---
+
+Next chapter: [Intelligence’s flywheel: improvisation](chapter2-improvisation.md)

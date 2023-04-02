@@ -41,3 +41,7 @@ References:
 [^2^]: Popper, K. (1963). Conjectures and Refutations: The Growth of Scientific Knowledge. Routledge.
 
 [^3^]: Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
+
+---
+
+Next chapter: [Challenging the Idea of Spontaneous Thoughts](chapter4-spontaneous-thoughts.md)

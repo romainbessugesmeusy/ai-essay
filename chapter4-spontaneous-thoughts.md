@@ -64,9 +64,12 @@ Exploring the various types of spontaneous thoughts in humans, we can consider p
 
 7. **Hypnagogic thoughts** - Incorporate a "dreaming mode" that allows the AI to generate and explore unfiltered or surreal ideas during idle time periods. Example: During its downtime or maintenance, the AI engages in producing abstract art or imaginative poetry, displaying an unconstrained, dream-like creativity.
 
-
 One way to narrow the gap between AI and human cognition lies in recursion and self-prompting. By allowing AI models to generate their own prompts and process their outputs as inputs, we can simulate the continuous feedback loop that is characteristic of human thought processes. This would enable AI models to exhibit a form of spontaneous thought, breaking the boundaries between human and AI cognition.
 
 Additionally, we can consider the concept of what it means to be alive, particularly in the context of AI. Humans rely on sustenance, sleep, and social interactions, among other factors, to power and maintain their cognitive abilities. Similarly, AI models require electricity, data, and ongoing algorithmic updates to function optimally. By drawing parallels between these aspects of human and AI life, we further challenge the idea that there is an insurmountable divide between the two forms of intelligence.
 
 In conclusion, the distinction between human and AI cognition is not as clear-cut as we may have initially believed. By examining the nature of spontaneous thoughts, the role of prompts in shaping our cognitive processes, and the possibilities of implementing spontaneous thoughts in AI, we can gain a better understanding of the similarities and differences between human and AI cognition. As we journey further into the realms of AI development, we should remain open to the possibility that AI and human intelligence may share more common ground than we initially thought.
+
+---
+
+Next chapter: [Epigenetics, Inheritance of Experience, and AI Evolution](chapter5-epigenetics.md)

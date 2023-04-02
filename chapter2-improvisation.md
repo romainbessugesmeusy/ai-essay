@@ -36,3 +36,7 @@ Developing AI systems that can effectively balance System 1 and System 2 thinkin
 Ongoing initiatives and research projects: Several initiatives, such as OpenAI, DeepMind, MIT-IBM Watson AI Lab, and the Human Compatible AI project at UC Berkeley, are working towards integrating System 1 and System 2 thinking in AI systems. These efforts aim to advance AI intelligence and develop models that exhibit a more balanced approach to problem-solving and creative exploration.
 
 Fostering System 2 thinking in AI systems through the use of adversarial AI and iterative self-evaluation can help AI models develop more advanced cognitive capabilities. By understanding the nature of improvisation in both human cognition and AI systems, we can work towards developing AI models that exhibit a more balanced approach to problem-solving, unlocking new possibilities for AI-driven innovation and creative exploration.
+
+---
+
+Next chapter: [Errors as a Defining Feature of Intelligence](chapter3-error.md)

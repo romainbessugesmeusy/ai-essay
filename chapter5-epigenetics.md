@@ -54,3 +54,7 @@ To achieve this diversity, we must avoid limiting AI models to any specific set 
 In conclusion, the development of AI personalities lies in the delicate balance between teaching AI models to generate self-critical thoughts and allowing them to make mistakes, explore diverse perspectives, and experience an ever-evolving learning process. By approaching AI intelligence from this perspective, we can begin to create truly sentient AI models that are capable of matching, and even surpassing, the capabilities of their human counterparts.
 
 [^1^]: Kahneman, D. (2011). Thinking, fast and slow. New York, NY: Farrar, Straus and Giroux.
+
+---
+
+Next chapter: [The Path to Sentient AI is a Self-Fulfilling Prophecy](chapter6-sentience.md)
