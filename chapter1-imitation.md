@@ -20,27 +20,46 @@ combining sensory information, memory, and motor skills. This complex mix of
 cognitive processes allows us to improve our abilities, make adjustments 
 based on feedback, and ultimately learn from the act of "parroting" others.
 
-### Language Acquisition and AI Models: A Comparative Perspective
-
-Language acquisition showcases the power of imitation in human learning. As children, we learn to speak by listening to and imitating the sounds, words, and sentence structures used by those around us. This process, known as "echoic imitation" (Kuhl, 2004), helps us practice articulating sounds and words. Gradually, we develop an understanding of language rules and meanings, enabling us to communicate effectively with others.
-
-AI models like GPT-3 also learn language through imitation. They process vast amounts of linguistic data and replicate the patterns they observe. As the AI model is exposed to more data, it refines its understanding of language, generating coherent and contextually relevant text. The interconnected weights and tokens within the model allow it to form associations that reflect the underlying structure and meaning of the language it has been trained on.
-
-However, people often describe AI models' understanding as distinct from human cognition. This distinction is frequently made by referring to a "deeper understanding" that humans possess, which includes not only recognizing patterns in language but also the ability to engage in higher-level cognitive processes such as reasoning, problem-solving, and empathy.
-
-The term "deeper understanding" can be subjective and may inadvertently perpetuate the notion of human superiority in terms of abstraction. Using such expressions might be a way for researchers to create a frontier between human and machine understanding, potentially hiding their own lack of clarity on how AI models manipulate concepts. It is essential to maintain an objective and evidence-based perspective when comparing AI models and human cognition.
-
-There is still much to learn about the nature of understanding and concept manipulation in both humans and AI models. As AI models continue to evolve and improve, it is crucial to remain open-minded and unbiased in evaluating their abilities in comparison to human cognition. By doing so, we can better understand the similarities and differences between human and AI understanding and explore the potential of AI systems without underestimating or overestimating their capabilities.
-
 ### AI Systems, Particularly LLMs, as Imitators
 
 AI systems, such as large language models (LLMs), are designed to learn and generate human-like text by imitating the patterns and structures found in the vast amounts of data they are trained on. To better understand how LLMs like GPT-3 achieve this, let's delve deeper into the transformer architecture and the roles of weights and tokens in identifying pre-existing patterns.
 
 Transformers, the foundation of LLMs, are a type of neural network architecture that uses self-attention mechanisms to process and analyze input data. In the context of language models, transformers enable the model to focus on different parts of the input text and identify patterns across various time scales and contexts.
 
-At the core of AI language models are weights and tokens. Tokens correspond to words or word pieces in the model's vocabulary, while weights represent the strength of connections between different tokens. As the AI model processes the training data, it adjusts these weights to capture the relationships and patterns found in the text, allowing it to generate coherent and contextually relevant text.
+At the core of AI language models are weights and tokens. Tokens correspond 
+to words or word pieces in the model's vocabulary, while weights represent 
+the strength of connections between different tokens. As the AI model 
+processes the training data, it adjusts these weights to capture the 
+relationships and patterns found in the text, allowing it to generate 
+coherent and contextually relevant text. This process of adjusting weights 
+is known as "learning", and matches our own ability to form connections 
+between remote concepts and ideas in our minds.
 
 The process of imitation in AI models like GPT-3 is facilitated by the self-attention mechanism within the transformer architecture. This mechanism enables the model to selectively focus on different parts of the input text, taking into account both local and global context. By learning to associate specific tokens with their corresponding contexts, the model can identify and replicate patterns in language, effectively imitating the structure and style of the text it has been trained on. This imitation-based learning process enables AI models to capture the intricate relationships between words and concepts, just as humans do, and generate coherent, contextually relevant text.
+
+### Language Acquisition and AI Models: A Comparative Perspective
+
+Language acquisition showcases the power of imitation in human learning. As children, we learn to speak by listening to and imitating the sounds, words, and sentence structures used by those around us. This process, known as "echoic imitation" (Kuhl, 2004), helps us practice articulating sounds and words. Gradually, we develop an understanding of language rules and meanings, enabling us to communicate effectively with others.
+
+AI models like GPT-3 also learn language through imitation. They process 
+vast amounts of linguistic data in order to replicate the patterns they 
+observe. The more data the AI model is trained with, the more it refines its 
+understanding of language, generating coherent and contextually relevant text. The interconnected weights and tokens within the model allow it to form associations that reflect the underlying structure and meaning of the language it has been trained on.
+
+However, people often describe AI models' way of understanding as distinct from 
+human cognition, arguing that mathematical representations of language are 
+insufficient to capture abstraction and concepts. This distinction is 
+frequently made by referring to a "deeper understanding" that humans possess.
+It's undeniable that humans have a unique ability to engage in 
+higher-level cognitive processes such as reasoning, problem-solving, and 
+empathy. But when it comes to understanding ideas and concepts, the frontier 
+may not be as clear-cut as we think.
+
+The term "deeper understanding", for example, is a subjective and vague concept 
+that 
+perpetuate the notion of human superiority in terms of abstraction. Using 
+such expressions might be a way for researchers to soothe their own fears, 
+by creating a frontier between human and machine understanding. As AI models continue to evolve and improve, it is crucial to remain open-minded and unbiased in evaluating their abilities in comparison to human cognition.
 
 ### Challenging the Notion that AI Systems are Merely "Parrots"
 
