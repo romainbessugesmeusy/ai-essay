@@ -2,13 +2,23 @@
 
 **You too, my friend, are a stochastic parrot.**
 
-Learning from our surroundings and the people around us is a key aspect of human intelligence. Imitation, as a form of learning, is often seen as just copying information. However, imitation plays a vital role in shaping our understanding of the world and our ability to communicate effectively. In this chapter, we'll explore the role of imitation in human and animal learning, language acquisition, and social behavior, drawing from scientific research and literature. We'll also draw parallels with AI systems, particularly large language models (LLMs).
+Imitation plays a vital role in shaping our understanding of the world and 
+our ability to communicate effectively. In this chapter, we'll explore the 
+role of imitation in human and animal learning, language acquisition, and 
+social behavior. By understanding how imitation shapes our cognitive 
+abilities, and projecting this onto AI systems, we will try to unweave the 
+general misconception that learning requires a "deeper understanding" of t
+concepts.
 
 ### The Role of Imitation in Human and Animal Learning
 
-Imitation is a natural and essential process in developing cognitive and social skills in both humans and animals. From a young age, humans learn by observing and copying the actions of others. This process of imitation helps us acquire new skills, understand social norms, and adapt to our environment. Similarly, animals also rely on imitation to learn crucial survival skills, such as foraging, hunting, and avoiding predators.
+Imitation is a natural and essential process in developing cognitive and social skills in both humans and animals. From a young age, humans learn by observing and copying the actions of others. Reproducing the actions of our peers allows us to acquire new skills, understand social norms, and adapt to our environment. This is not limited to humans. Animals, too, rely on imitation to learn crucial survival skills, such as foraging, hunting, and avoiding predators.
 
-Research by Tomasello et al. (1993) has shown that imitation is not just a passive process of copying but an active form of learning that involves combining sensory information, memory, and motor skills. This complex mix of cognitive processes allows us to improve our abilities, make adjustments based on feedback, and ultimately develop a deeper understanding of the world around us.
+Research by Tomasello et al. (1993) has shown that imitation is not just a 
+passive process of copying but an active form of learning that involves 
+combining sensory information, memory, and motor skills. This complex mix of 
+cognitive processes allows us to improve our abilities, make adjustments 
+based on feedback, and ultimately learn from the act of "parroting" others.
 
 ### Language Acquisition and AI Models: A Comparative Perspective
 
