@@ -24,11 +24,7 @@ Spontaneous thoughts are often categorized into two broad categories: deliberate
 
 ### Distinction Between Conscious and Unconscious Spontaneous Thoughts
 
-Another way to classify spontaneous thoughts is by considering the level of consciousness involved. Conscious thoughts are those we are fully aware of and can control, while unconscious thoughts are automatic cognitive processes or mental activities that we are not aware of. The preconsciousness, a middle ground between conscious and unconscious thoughts, contains ideas, memories, and feelings that are not part of our immediate awareness but can be accessed when needed or triggered by specific cues. It is the interplay between these different levels of consciousness that ultimately shapes the spontaneous thoughts we experience^[Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences, 98(2), 676-682.]^.
-
-As we delve deeper into the nature of spontaneous thoughts and compare them to prompts that guide AI's actions, it becomes apparent that our perception of humans having exclusive access to the realm of spontaneous ideas is perhaps illusory. In the next section, we will explore the role of external stimuli and biochemistry in shaping human cognition and discuss how AI systems function in a similar manner.
-
-[^1]: Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences, 98(2), 676-682.
+Another way to classify spontaneous thoughts is by considering the level of consciousness involved. Conscious thoughts are those we are fully aware of and can control, while unconscious thoughts are automatic cognitive processes or mental activities that we are not aware of. The preconsciousness, a middle ground between conscious and unconscious thoughts, contains ideas, memories, and feelings that are not part of our immediate awareness but can be accessed when needed or triggered by specific cues. It is the interplay between these different levels of consciousness that ultimately shapes the spontaneous thoughts we experience.
 
 ### The role of external stimuli in shaping human cognition
 
@@ -38,6 +34,8 @@ Our cognitive abilities are built upon the raw material provided by our senses. 
 - Auditory information is essential for communication and perception. Deaf individuals, however, manage to communicate and understand the world through alternative means like sign language or lip-reading. AI systems can also be trained to process alternative forms of communication or to translate auditory information into a textual format.
 - Our sense of touch enables us to interact with our environment and understand its properties. Haptic technology can digitally recreate tactile sensations, allowing AI systems to simulate touch and learn from it.
 - Smell and taste are chemical senses that help us discern the nature of substances in our environment. They can be digitalized through electronic noses and artificial flavor sensors, providing relevant data for AI models to analyze and learn from.
+
+
 
 Our biochemistry also plays a significant role in shaping our cognition. Hormones, for instance, act as influential agents on our emotions, behavior, and decision-making processes. The release of serotonin influences our mood, while cortisol prepares us to face stress. These biochemical cues can be replicated and implemented in AI systems to simulate emotional responses and adapt to different scenarios.
 
