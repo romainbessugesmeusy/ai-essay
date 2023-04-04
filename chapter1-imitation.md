@@ -4,8 +4,9 @@
 
 Imitation plays a vital role in shaping our understanding of the world and our ability to communicate effectively. In
 this chapter, we'll explore the role of imitation in human and animal learning, language acquisition, and social
-behavior. By understanding how imitation shapes our cognitive abilities, and projecting this onto AI systems, we will
-try to unweave the general misconception that learning requires a "deeper understanding" of concepts.
+behavior. By examining how imitation influences our cognitive abilities and applying this knowledge to AI systems, we
+aim to dispel the general misconception that learning necessitates a "deeper understanding" of concepts that machines
+cannot achieve.
 
 ### The Role of Imitation in Human and Animal Learning
 
