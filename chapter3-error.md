@@ -32,7 +32,13 @@ Empowering end-users requires implementing advanced features, such as an interfa
 
 By enabling users to interact with AI systems within boundaries they control, we can create a more personalized and intellectually diverse AI experience. This approach allows AI systems to learn from their mistakes in a safe and controlled environment, encouraging users to explore a diverse range of perspectives and ideas, ultimately leading to more innovative and accurate insights.
 
+### Composable embeddings to the rescue
+
+What would it mean to grant control to end-users? One possible method is through composable embeddings. This approach involves developing separate embeddings that can be activated and combined at runtime, rather than depending on a singular, fixed embedding. This would enable users to fine-tune the AI's behavior on the go by choosing the concepts and context pertinent to their requirements. For instance, a foundational embedding could be trained on dictionaries, encyclopedias, and other lexical resources. Users could then activate supplementary embeddings, such as medical, legal, or religious dictionaries. This approach allows for adaptability by letting users select relevant concepts and context, and even offers the opportunity to assign weight to different embeddings. This could prioritize specific information sources over others, utilizing a user interface as straightforward as a drag-and-drop editor and a few toggles.
+
 In conclusion, embracing errors as a path to more advanced AI cognition can contribute to the development of more robust, adaptive, and personalized AI systems. Establishing a clear contract between the user and the AI system, outlining the boundaries of the AI's improvisation, can help users understand the AI's limitations and make informed decisions about the AI's behavior. This approach ensures that AI systems can still engage in creative learning experiences without compromising user expectations or desired outcomes. Encouraging a transparent, interactive partnership between AI systems and their users leads to more innovative and accurate insights, ultimately enhancing the shared understanding of the world.
+
+
 
 References:
 
