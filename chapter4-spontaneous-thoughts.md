@@ -2,12 +2,11 @@
 
 `while(alive) { prompt = think(prompt) }`
 
-### What exactly are spontaneous thoughts?
-
-We often believe that our mind is a fertile breeding ground for original ideas and musings, independent from external influences. However, if we closely examine the nature of spontaneous thoughts, it is evident that they are a result of complex interactions between both internal and external factors.
+We often believe that our mind is a fertile breeding ground for original ideas and musings, independent of external influences. However, if we closely examine the nature of spontaneous thoughts and reflect on their origins, we can challenge their randomness.
 
 ### The Different Kinds of Spontaneous Thoughts
-Spontaneous thoughts are often categorized into two broad categories: deliberate and involuntary. Deliberate thoughts are the ones we purposefully direct our mind towards in order to problem-solve, plan, or contemplate specific ideas. Involuntary thoughts, on the other hand, appear to pop into our minds out of nowhere. Daydreams, fantasies, and sudden realizations are some examples of involuntary thoughts. While it might seem that these involuntary thoughts are uniquely human and independent from any external influence, they are in fact shaped by multiple factors.
+Spontaneous thoughts are often categorized into two broad categories: deliberate and involuntary. Deliberate thoughts are the ones we purposefully direct our mind towards in order to problem-solve, plan, or contemplate specific ideas. Involuntary thoughts, on the other hand, appear to pop into our minds out of nowhere. Daydreams, fantasies, and sudden realizations are some examples of involuntary thoughts. This duality mirrors the distinction between System 1 and System 2 thinking, where the former is automatic and the latter is deliberate. Let's try to list the most frequent types of spontaneous thoughts:
+
 1. **Daydreams** - Involuntary, pleasant fantasies or imagined scenarios that distract from the present environment. Example: While sitting in a meeting, you start imagining yourself relaxing on a beach during a vacation.
 
 2. **Mind-wandering** - The mental state where your attention drifts away from the current task or surroundings towards unrelated thoughts. Example: While reading a book, you suddenly find yourself thinking about your grocery list.
