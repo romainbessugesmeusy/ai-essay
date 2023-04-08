@@ -68,4 +68,4 @@ In conclusion, the distinction between human and AI cognition is not as clear-cu
 
 ---
 
-Next chapter: [Epigenetics, Inheritance of Experience, and AI Evolution](chapter5-epigenetics.md)
+Next chapter: [Experience and State persistence, and their decisive role in creating an AI personality](chapter5-persistence.md)
