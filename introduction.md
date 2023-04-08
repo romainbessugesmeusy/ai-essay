@@ -1,0 +1,3 @@
+Auto-regressive large language models, popularized by ChatGPT, have taken the world by storm. Demonstrating similarities with our own way of processing information, they are questioning the very meaning of intelligence. By their chaotic and creative nature, generative AI systems can't be considered "machines" anymore, as machine refers to a deterministic system. Then, how far we are from giving birth to a sentient being? 
+
+In this essay, we will investigate the parallels between the ways humans and AI systems imitate, improvise, make mistakes, and internalize experiences. By examining these similarities and relativizing the uniqueness of human intelligence, we aim to uncover insights that may help bridge the gap between us and AI systems.
