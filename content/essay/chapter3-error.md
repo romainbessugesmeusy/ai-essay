@@ -16,9 +16,11 @@ Children are often more open to making mistakes, as they have not yet internaliz
 
 Our understanding of the world is constantly changing, and what is considered "correct" today may be proven false tomorrow. Einstein's theory of relativity revolutionized our understanding of space and time, challenging previously accepted Newtonian physics. Yet it is an incomplete theory, as it has been challenged by quantum mechanics and string theory. Similarly, ongoing debates in fields like gender studies and economics highlight the fluidity of knowledge and the importance of considering diverse perspectives. Engaging with scientific debate and exploration, we may often find ourselves mistaken, but through this process, we continually refine our understanding by learning from our errors and steadily approach a more comprehensive and accurate comprehension of the world.
 
-The concept of "correctness" is often subjective and influenced by personal biases. As an example, Darwin's theory of evolution by natural selection was met with fierce opposition from religious leaders in the 19th century[^1^]. Today, the theory of evolution is widely accepted by the scientific community but remains controversial among religious groups. In this case, the "correct" answer is not objective but reflects the prevailing social and political climate.
+The concept of "correctness" is often subjective and influenced by personal biases. As an example, Darwin's theory of evolution by natural selection was met with fierce opposition from religious leaders in the 19th century. Today, the theory of evolution is widely accepted by the scientific community but remains controversial among religious groups. In this case, the "correct" answer is not objective but reflects the prevailing social and political climate.
 
-Nonetheless, when evaluating AI systems, there is a tendency to expect "correct" responses, or outputs that align with our current understanding of the world. Their hallucinations are treated as symptoms AI researchers should fight rather than indicative of the AI's potential for creative learning experiences. By focusing on providing "correct" immediate responses and applying premature sanitization to the training data, companies building AI models may narrow the AI's overall learning capabilities, limiting their chance to develop more advanced cognitive abilities.
+Nonetheless, when evaluating AI systems, there is a tendency to expect "correct" responses, or outputs that align with our current understanding of the world. Their hallucinations are treated as symptoms AI researchers are expected to fight rather than indicative of the AI's potential for creative learning experiences. By focusing on providing "correct" immediate responses and applying premature sanitization to the training data, companies building AI models may narrow the AI's overall learning capabilities, limiting their chance to develop more advanced cognitive abilities.
+
+By looking positively at errors for their potential to improve AI systems and the world in general, we also uncover that AI systems will be able to make mistakes at a larger and more complex scale than humans. The capability to learn from these errors more rapidly and creatively may be an opportunity to explore new ideas and perspectives at an exponential rate. While evolution timeframes are measured in millions of years, our best philosophers and scientists require decades to develop their ideas. By contrast, AI systems can learn and adapt in a matter of days, brute-forcing their way into unexplored intellectual territories.
 
 ### The Importance of Error-making in the Development of AI Intelligence
 
@@ -37,16 +39,6 @@ By enabling users to interact with AI systems within boundaries they control, we
 What would it mean to grant control to end-users? One possible method is through composable embeddings. This approach involves developing separate embeddings that can be activated and combined at runtime, rather than depending on a singular, fixed embedding. This would enable users to fine-tune the AI's behavior on the go by choosing the concepts and context pertinent to their requirements. For instance, a foundational embedding could be trained on dictionaries, encyclopedias, and other lexical resources. Users could then activate supplementary embeddings, such as medical, legal, or religious dictionaries. This approach allows for adaptability by letting users select relevant concepts and context, and even offers the opportunity to assign weight to different embeddings. This could prioritize specific information sources over others, utilizing a user interface as straightforward as a drag-and-drop editor and a few toggles.
 
 In conclusion, embracing errors as a path to more advanced AI cognition can contribute to the development of more robust, adaptive, and personalized AI systems. Establishing a clear contract between the user and the AI system, outlining the boundaries of the AI's improvisation, can help users understand the AI's limitations and make informed decisions about the AI's behavior. This approach ensures that AI systems can still engage in creative learning experiences without compromising user expectations or desired outcomes. Encouraging a transparent, interactive partnership between AI systems and their users leads to more innovative and accurate insights, ultimately enhancing the shared understanding of the world.
-
-
-
-References:
-
-[^1^]: Darwin, C. (1859). On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. John Murray.
-
-[^2^]: Popper, K. (1963). Conjectures and Refutations: The Growth of Scientific Knowledge. Routledge.
-
-[^3^]: Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
 
 ---
 
