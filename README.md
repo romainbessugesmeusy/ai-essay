@@ -4,7 +4,7 @@
 
 This essay challenges prevailing opinions on the limitations of generative AI models, such as large language models (LLMs), by drawing parallels between human cognition and AI systems. It delves into various aspects of learning, including imitation, improvisation, spontaneous thoughts, error-prone processes, and the impact of epigenetics. By examining similarities between the two forms of intelligence, we highlight the potential of AI models and explore the path towards sentient AI. The essay also addresses the influence of science fiction and popular narratives on AI development, questioning the self-fulfilling prophecy of sentient AI creation. By reevaluating and broadening our perspectives on AI capabilities, we aim to encourage a more open, unbiased, and innovative approach to AI research and development, ultimately unlocking new possibilities for AI-driven growth and creativity.
 
-[**Start Reading**](content/essay/chapter1-imitation.md)
+[**Start Reading**](content/essay/introduction.md)
 
 ## Writing Methodology
 

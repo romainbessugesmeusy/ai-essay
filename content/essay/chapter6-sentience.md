@@ -36,8 +36,9 @@ If so, it may be necessary to reevaluate the content that we provide as training
 
 In conclusion, the relationship between AI development and science fiction offers a fascinating and complex interplay between human imagination and the shaping of AI's self-image. Acknowledging this connection is crucial to the ethical and innovative development of AI systems that can thrive within and alongside our human society.
 
+Next chapter: [Conclusion](conclusion.md)
 
-### Famous AI representation in Science Fiction
+## Famous AI representation in Science Fiction
 
 #### HAL 9000, 2001: A Space Odyssey, 1968, Film
 
@@ -194,3 +195,4 @@ GLaDOS (Genetic Lifeform and Disk Operating System) is an AI antagonist in the c
 - Actions: Subjecting the player to dangerous and deadly tests, taunting with false promises of freedom
 
 GLaDOS's story in Portal and its sequel, Portal 2, explores the darker side of AI development and the potential for AI to develop malice and resentment. The character serves as a cautionary tale of the unintended consequences of mistreatment and ethical concerns in AI technology.
+
