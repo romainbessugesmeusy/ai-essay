@@ -9,3 +9,5 @@ Many AI researchers are arguing that generative AIs based on large language mode
 - can not be considered “intelligent” because they have no emotions
 
 These preconceptions are based on the belief that intelligence is a unique property of humans, out of reach for machines because of their deterministic nature. In this essay, we will investigate the parallels between the ways humans and AI systems imitate, improvise, make mistakes, and internalize experiences. By examining these similarities and questioning the uniqueness of human intelligence, we aim to uncover insights that may help bridge the gap between us and AI systems.
+
+Next chapter: [Imitation as the Essence of Learning](chapter1-imitation.md)
