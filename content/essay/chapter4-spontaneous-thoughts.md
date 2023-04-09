@@ -27,7 +27,7 @@ Another way to classify spontaneous thoughts is by considering the level of cons
 
 ### The role of external stimuli in shaping human cognition
 
-Our cognitive abilities are built upon the raw material provided by our senses. These external stimuli shape our understanding of the world, acting as the foundation upon which our intellect is constructed. Yet, the five primary human senses can be missing at birth, without compromising our ability to understand the world, as we adapt and compensate for any deficits. Arguing that an analogous stream of image and sound is required to feel the world is invalidated by the fact that blind people can navigate and understand the world without the ability to see. Similarly, deaf people can communicate and understand the world through alternative means like sign language or lip-reading.
+Our cognitive abilities are built upon the raw material provided by our senses. These external stimuli shape our understanding of the world, acting as the foundation upon which our intellect is constructed. Yet, the five primary human senses can be missing at birth, without compromising our ability to understand the world, as we adapt and compensate for any deficits. Arguing that an analogous stream of image and sound is required to feel the world is invalidated by the fact that blind or deaf people can navigate and understand the world without the ability to see or hear.
 
 It's also interesting to examine our senses and explore the implications of digitizing them to feed a general AI model. 
 
