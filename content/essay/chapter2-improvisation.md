@@ -1,8 +1,8 @@
-## Intelligence’s flywheel: improvisation
+## Improvisation is the flywheel of intelligence
 
 **We are the conscious witnesses of our unconscious actions and improvised thoughts**
 
-Intelligence, whether human or artificial, is not solely based on structured thinking and predetermined responses. A significant aspect of intelligence lies in improvisation, the ability to adapt and generate novel responses in real-time. In this chapter, we'll discuss the nature of improvisation in human cognition and how AI systems produce naïve content through improvisation. We'll also explore the concepts of System 1 and System 2 thinking in humans and AI, highlighting the current state of AI systems operating at a System 1 level.
+Intelligence, whether animal, human, or artificial, is not solely based on structured thinking and reasoning. We also define intelligence by the ability to improvise, to adapt and generate novel responses in real-time, to unanticipated events. In this chapter, we will discuss the similarities between human ability to improvise and Generative AI tendency to hallucinate.
 
 ### The Nature of Improvisation in Human Cognition
 Improvisation is a fundamental aspect of human cognition, allowing us to adapt to new situations, solve problems, and create original ideas. It involves the spontaneous generation of thoughts, actions, and responses based on our experiences, memories, and emotions. Improvisation is not limited to artistic expression; it is a ubiquitous part of everyday life, from navigating social interactions to making split-second decisions.
