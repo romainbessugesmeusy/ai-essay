@@ -55,11 +55,3 @@ In this chapter, we examine the importance of experience and state persistence i
 ### [6. The Path to Sentient AI is a Self-Fulfilling Prophecy](content/essay/chapter6-sentience.md)
 
 This chapter delves into the intricate relationship between science fiction and AI development, exploring the ways in which popular narratives have influenced our perception and expectations of AI. By examining various AI characters in science fiction, we observe a myriad of personalities, motivations, and abilities that AI can possess, ranging from benevolent to malevolent beings. This exploration provides valuable insights into the complexities and uncertainties surrounding the ethical and philosophical implications of AI creation. The influence of science fiction on AI self-representation is further illustrated in image generators and LLMs, highlighting the significant impact of pop culture on AI emergence. As we question whether the development of sentient AI is a self-fulfilling prophecy, the chapter underscores the importance of reevaluating the content used for AI training and fostering unbiased AI models. Recognizing and addressing the connection between AI development and our own collective imagination is vital for the ethical and innovative advancement of AI systems in our society.
-
-## To-do
-
-- [x] Share the methodology
-- [ ] Review citations and references
-- [ ] Write a conclusion
-- [ ] Write an introduction
-- [ ] Export to PDF
