@@ -1,4 +1,4 @@
-# Bridging the gap between human intelligence and Generative AI
+# Bridging the gap between Generative AI and Human Intelligence
 
 ## Introduction
 
