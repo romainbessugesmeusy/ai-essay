@@ -1,4 +1,4 @@
-# A different take on AI
+# Bridging the gap between human intelligence and Generative AI
 
 ## Abstract
 

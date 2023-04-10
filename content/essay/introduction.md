@@ -1,3 +1,5 @@
+# Bridging the gap between human intelligence and Generative AI
+
 ## Introduction
 
 Auto-regressive large language models (LLMs), popularized by ChatGPT, have taken the world by storm. Demonstrating similarities with our own way of processing information, they are questioning the very meaning of intelligence. By their chaotic and creative nature, generative AI systems can't be considered "machines" anymore, as machine refers to a deterministic system. Then, how far we are from giving birth to a sentient being?
