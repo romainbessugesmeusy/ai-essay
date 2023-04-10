@@ -23,9 +23,7 @@ parroting" others.
 ### AI Systems as Imitators
 
 Large language models (LLMs) are designed to generate human-like text by imitating the patterns and structures found in
-the vast amounts of data they are trained on.
-
-At the core of AI language models are weights, tokens, and embeddings.
+the vast amounts of data they are trained on. At the core of AI language models are weights, tokens, and embeddings.
 
 Tokens correspond to words or sub-words. They constitute the model's vocabulary. Embeddings are the geometrical
 addresses of the tokens in a multidimensional space. Weights are the fine parameters learned by the model to
