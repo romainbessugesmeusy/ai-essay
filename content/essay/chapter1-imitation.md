@@ -59,8 +59,7 @@ reasoning.
 ### Language Acquisition and AI Models: A Comparative Perspective
 
 Language acquisition showcases the power of imitation in human learning. As children, we learn to speak by listening to
-and imitating the sounds, words, and sentence structures used by those around us. This process, known as "echoic
-imitation" (Kuhl, 2004), helps us practice articulating sounds and words. Gradually, we develop an understanding of
+and imitating the sounds, words, and sentence structures used by those around us. This process helps us practice articulating sounds and words. Gradually, we develop an understanding of
 language rules and meanings, enabling us to communicate effectively with others.
 
 AI models like GPT-3 also learn language through imitation. They process vast amounts of linguistic data in order to
@@ -99,12 +98,5 @@ and imitation that they can create connections between concepts, leading to a in
 development of communication skills. By appreciating the role of imitation in AI language generation, we can better
 understand the potential of these systems and explore the possibilities they present for the future of AI research and
 development.
-
-References
-
-- Elman, J. L. (1990). Finding structure in time. Cognitive Science, 14(2), 179-211.
-- Tomasello, M. (2003). Constructing a language: A usage-based theory of language acquisition. Harvard University Press.
-
----
 
 Next chapter: [Intelligence’s flywheel: improvisation](chapter2-improvisation.md)
